@@ -1,0 +1,155 @@
+
+C:\Users\admin\Desktop>javac Project1.java
+Project1.java:14: error: cannot find symbol
+                Scanner sc = new Scanner(System.in);
+                ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:14: error: cannot find symbol
+                Scanner sc = new Scanner(System.in);
+                                 ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:19: error: cannot find symbol
+                        List<String> al = new ArrayList<String>();
+                        ^
+  symbol:   class List
+  location: class Project1
+Project1.java:19: error: cannot find symbol
+                        List<String> al = new ArrayList<String>();
+                                              ^
+  symbol:   class ArrayList
+  location: class Project1
+Project1.java:20: error: cannot find symbol
+                        File folder = new File("C:/Path");
+                        ^
+  symbol:   class File
+  location: class Project1
+Project1.java:20: error: cannot find symbol
+                        File folder = new File("C:/Path");
+                                          ^
+  symbol:   class File
+  location: class Project1
+Project1.java:21: error: cannot find symbol
+                        File[] listOfFiles = folder.listFiles();
+                        ^
+  symbol:   class File
+  location: class Project1
+Project1.java:39: error: cannot find symbol
+                        Scanner sc1 = new Scanner(System.in);
+                        ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:39: error: cannot find symbol
+                        Scanner sc1 = new Scanner(System.in);
+                                          ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:62: error: cannot find symbol
+                Scanner sc5 = new Scanner(System.in);
+                ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:62: error: cannot find symbol
+                Scanner sc5 = new Scanner(System.in);
+                                  ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:64: error: cannot find symbol
+                File f = new File("C:path//" + FileName);
+                ^
+  symbol:   class File
+  location: class Project1
+Project1.java:64: error: cannot find symbol
+                File f = new File("C:path//" + FileName);
+                             ^
+  symbol:   class File
+  location: class Project1
+Project1.java:73: error: cannot find symbol
+                Scanner sc6 = new Scanner(System.in);
+                ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:73: error: cannot find symbol
+                Scanner sc6 = new Scanner(System.in);
+                                  ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:85: error: cannot find symbol
+                Scanner sc4 = new Scanner(System.in);
+                ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:85: error: cannot find symbol
+                Scanner sc4 = new Scanner(System.in);
+                                  ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:88: error: cannot find symbol
+                        File f = new File("C:path//" + FileName);
+                        ^
+  symbol:   class File
+  location: class Project1
+Project1.java:88: error: cannot find symbol
+                        File f = new File("C:path//" + FileName);
+                                     ^
+  symbol:   class File
+  location: class Project1
+Project1.java:90: error: cannot find symbol
+                                Files.deleteIfExists(Paths.get("C:/path//" + FileName));
+                                ^
+  symbol:   variable Files
+  location: class Project1
+Project1.java:90: error: cannot find symbol
+                                Files.deleteIfExists(Paths.get("C:/path//" + FileName));
+                                                     ^
+  symbol:   variable Paths
+  location: class Project1
+Project1.java:98: error: cannot find symbol
+                } catch (NoSuchFileException ep) {
+                         ^
+  symbol:   class NoSuchFileException
+  location: class Project1
+Project1.java:101: error: cannot find symbol
+                } catch (IOException e) {
+                         ^
+  symbol:   class IOException
+  location: class Project1
+Project1.java:110: error: cannot find symbol
+                Scanner sc2 = new Scanner(System.in);
+                ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:110: error: cannot find symbol
+                Scanner sc2 = new Scanner(System.in);
+                                  ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:113: error: cannot find symbol
+                Scanner sc3 = new Scanner(System.in);
+                ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:113: error: cannot find symbol
+                Scanner sc3 = new Scanner(System.in);
+                                  ^
+  symbol:   class Scanner
+  location: class Project1
+Project1.java:116: error: cannot find symbol
+                        FileWriter output = new FileWriter("C:/path//" + newfilename);
+                        ^
+  symbol:   class FileWriter
+  location: class Project1
+Project1.java:116: error: cannot find symbol
+                        FileWriter output = new FileWriter("C:/path//" + newfilename);
+                                                ^
+  symbol:   class FileWriter
+  location: class Project1
+Project1.java:122: error: cannot find symbol
+                } catch (IOException e) {
+                         ^
+  symbol:   class IOException
+  location: class Project1
+30 errors
+
+C:\Users\admin\Desktop>
